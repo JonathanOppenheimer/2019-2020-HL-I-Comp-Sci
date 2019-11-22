@@ -1,0 +1,20 @@
+body {
+    background: url("duck.png") repeat;
+    background-color: rgb(193, 230, 255);
+  
+}
+
+div.standard {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: inset 500px 500px 500px rgba(204, 0, 255, 0.3);
+}
+
+ol.standard {
+    color: #1eff00;
+}
+
+img.strech {
+    width: 600px;
+    height: 100px;
+}
